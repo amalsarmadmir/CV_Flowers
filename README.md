@@ -13,15 +13,7 @@ Make sure you have the following dependencies installed:
 
 1. **Python 3.x**
 2. **TensorFlow 2.x**
-   - Install using:
-     ```bash
-     pip install tensorflow
-     ```
 3. **SciPy** (for loading `.mat` files)
-   - Install using:
-     ```bash
-     pip install scipy
-     ```
 4. **Oxford 102 Flowers Dataset**: Download the `.mat` and `.jpg` files from [Oxford Flowers 102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/).
 
 ## Dataset
